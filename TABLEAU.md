@@ -12,3 +12,7 @@ This section details the interactive Tableau dashboard built to provide a multi-
 * **Year-Wise Financial Performance (Combination Chart):** Dual-axis chart comparing annual Sales Amount against Production Cost across years (notably peaking at **16.35M** in sales).
 * **Performance Tables:** Dynamic ranking lists tracking top-performing products (led by the *Mountain-200* series) and key customers.
 * **Regional Performance (Bar Chart):** Visualizes sales distribution across various geographic territories.
+<img width="1919" height="1079" alt="Screenshot 2026-08-18 235047" src="https://github.com/user-attachments/assets/ed80d503-11de-48d6-9bb0-c55c4e1fb008" />
+<img width="1919" height="1079" alt="Screenshot 2026-08-18 235113" src="https://github.com/user-attachments/assets/34a59040-1bdd-4a71-b7bc-e7f66ee48590" />
+<img width="1918" height="1079" alt="Screenshot 2026-08-18 235124" src="https://github.com/user-attachments/assets/983d0553-7493-4044-a203-31a28533a21a" />
+<img width="1919" height="1079" alt="Screenshot 2026-08-18 235137" src="https://github.com/user-attachments/assets/0c9922b0-8722-441e-a646-4e26cd4c9b6d" />
