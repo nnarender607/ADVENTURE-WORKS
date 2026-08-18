@@ -1,1 +1,16 @@
+## 📊 Tableau Interactive Dashboard
 
+The interactive Tableau dashboard provides a multi-dimensional visual breakdown of the Adventure Works sales data, featuring global filters for **Year**, **Sales Territory**, and **Calendar Attributes**.
+
+### **Dashboard Preview**
+
+### **Key Visualizations & Insights**
+* **Executive Summary KPIs:** Tracks overall financial health with a total Sales Amount of **29.36M**, Production Cost of **17.28M**, and Net Profit.
+* **Month-Wise Sales Trend (Line Chart):** Maps the seasonal progression of sales throughout the year, peaking in December at **3.21M**.
+* **Quarter-Wise Breakdown (Pie Chart):** Illustrates revenue distribution across calendar quarters, highlighting top-performing quarters like Q1 (**9.11M**) and Q3 (**7.64M**).
+* **Year-Wise Financial Performance (Combination Chart):** Dual-axis chart comparing annual Sales Amount against Production Cost across years (notably peaking at **16.35M** in sales).
+* **Performance Tables:** Dynamic ranking lists tracking top-performing products (led by the *Mountain-200* series) and key customers.
+* **Regional Performance (Bar Chart):** Visualizes sales distribution across various geographic territories.
+
+### **Dashboard Preview**
+![Tableau Dashboard Preview](./Screenshot%202026-08-18%20235047.jpg)
