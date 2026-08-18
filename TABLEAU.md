@@ -1,4 +1,5 @@
 # Tableau Interactive Dashboard - Adventure Works
+[View Adventure Works Tableau Dashboard](https://public.tableau.com/app/profile/narender.mekala/viz/Adventuresproject_17862097963160/Dashboard2)
 
 ## 📊 Overview
 This section details the interactive Tableau dashboard built to provide a multi-dimensional visual breakdown of the Adventure Works sales data, featuring global filters for **Year**, **Sales Territory**, and **Calendar Attributes**.
